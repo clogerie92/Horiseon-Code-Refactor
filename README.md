@@ -11,7 +11,11 @@ I consolodated some of the CSS selectors/properties to make the style sheet more
 I fixed the broken link in the navigation bar
 I added alt attributes to the image tags
 I updated the index.html file with semantic html elements
+
 ```
+
+# GitHub Pages:
+https://clogerie92.github.io/Horiseon-Code-Refactor/
 
 ## Mock-Up
 The following image shows the web application's appearance and functionality:
