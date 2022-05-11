@@ -7,7 +7,7 @@ I was hired by a marketing agency to refactor an existing site to make it more a
 
 ```
 I changed the title from the generic "Title" that was given to "Horiseon Main Page"
-I consolodated some of the CSS selectors/properties to make the style sheet more organzied
+I consolodated some of the CSS selectors/properties to make the style sheet more organized
 I fixed the broken link in the navigation bar
 I added alt attributes to the image tags
 I updated the index.html file with semantic html elements
